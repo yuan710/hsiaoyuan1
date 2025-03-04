@@ -17,4 +17,6 @@ df_long <- df |>
 # 查看整理後的數據
 print(df_long)
 
+write.csv(df_long, "df_long.csv", row.names = FALSE)
+
 
