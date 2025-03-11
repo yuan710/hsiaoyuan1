@@ -7,3 +7,4 @@
 -   每筆資料可以用AI製作codebook來解釋檔案內容 \## 簡單表格
 -   parsing 是處理資料的class資料類型
 -   先把資料reshape之后利用lookerstodio來分析資料
+- 有兩個地方寫R時開始習慣先pull把檔案更新起來
