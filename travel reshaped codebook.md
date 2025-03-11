@@ -1,28 +1,26 @@
-此数据集包含从2002年至2024年到各个地区的旅行者数量信息。数据包括主要抵达地、细分地区、年份和旅行者数量。
+# Codebook: Travelers Dataset
 
-变量
-首站抵達地
+## Dataset Description
 
-描述: 抵达的主要地区。
-数据类型: 类别型
-示例值: "亞洲地區", "非洲地區", "美洲地區", "大洋洲地區", "歐洲地區", "全區"
-細分
+This dataset contains information on the number of travelers visiting various destinations over multiple years. The data includes the region, specific country, year, and the number of travelers recorded. Some missing values (NA) are present in earlier years.
 
-描述: 主要抵达地区内的具体细分地区或国家。
-数据类型: 类别型
-示例值: "日本Japan", "韓國Korea", "香港Hong Kong", "中國大陸China", "南非S. Africa", "美國USA", "澳洲Australia", "法國France"
-Year
+## Variable Table
+I use R program and follow tidyverse style, and the R for data science book (https://r4ds.had.co.nz/) closely. The data is imported as reshape_travel_data. How to parse variables accordingly
 
-描述: 数据记录的年份。
-数据类型: 数值型 (整数)
-示例值: 2002, 2003, ..., 2024
-Travelers
+| Variable Name         | Class     | Description                                                 | Example Value |
+|--------------|--------------|-----------------------------|--------------|
+| `首站抵達地`          | factor | The broad region of the destination                         | "亞洲地區"    |
+| `細分`                | factor | The specific country or sub-region of arrival               | "日本Japan"   |
+| `Year`                | integer   | The year of recorded travel data                            | 2010          |
+| `Number_of_Travelers` | integer   | The number of travelers (can contain NA for missing values) | 1377957       |
 
-描述: 在给定年份中到指定地区和细分地区的旅行者数量。
-数据类型: 数值型 (整数) 或 NA (不可用)
-示例值: 1309847, 1113857, NA
-总体信息
-目的: 提供各地区旅行者数量的历史数据。
-来源: 假定为旅行和旅游数据记录。
-备注: 一些值标记为NA，表示这些年份和地区的数据不可用。
-此数据字典为数据集的结构提供了清晰的理解，帮助用户准确解释数据。
+## Notes
+
+-   The dataset is structured in a tidy format where each row represents a unique observation of traveler count per year for a given destination.
+-   Some values in the `Number_of_Travelers` column are missing (NA), indicating unrecorded or unavailable data for certain years.
+-   The dataset can be useful for analyzing trends in tourism across different years and regions.
+
+------------------------------------------------------------------------
+
+**Author:** [Your Name]\
+**Date Created:** [Insert Date]
