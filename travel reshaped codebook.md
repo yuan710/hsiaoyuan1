@@ -11,7 +11,7 @@ This dataset records the number of travelers visiting various destinations over 
 ## **2. Variables Description**
 
 | Variable Name         | Class   | Description                                   | Example Value | Summary Statistics                                         |
-|-----------------------|---------|-----------------------------------------------|---------------|------------------------------------------------------------|
+|--------------|--------------|--------------|--------------|-----------------|
 | `首站抵達地`          | Factor  | The broad region of the destination           | "亞洲地區"    | 6 unique values (Most common: 亞洲地區, 414 occurrences)   |
 | `細分`                | Factor  | The specific country or sub-region of arrival | "日本Japan"   | 10 most common destinations (All with 23 occurrences)      |
 | `Year`                | Integer | The year of recorded travel data              | 2010          | Min: 2002, Max: 2024, Unique Years: 23                     |
