@@ -11,4 +11,4 @@ sheet_write(travel_summary, ss = gs_url, sheet = "Travel Summary")
 gs_url <- "https://docs.google.com/spreadsheets/d/1o9l5Zim_LqcHhSuMbQ7Jc89_80erjzGFh4LCFSofbaw/edit"
 
 # 上傳 reshaped_travel_data 到新的 Sheet
-sheet_write(reshaped_travel_data, ss = gs_url, sheet = "Reshaped Travel Data")
+sheet_write(reshaped_travel_data_tidy, ss = gs_url, sheet = "Reshaped Travel Data")
