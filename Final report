@@ -1,0 +1,19 @@
+Data Summary Report
+The dataset analyzed in this study provides a comprehensive overview of outbound travel statistics for citizens of the Republic of China (Taiwan) from 2002 to 2024. The data includes detailed records of traveler counts by destination region and country, offering insights into travel patterns over time. The dataset comprises 782 observations across 4 variables: 首站抵達地 (primary destination region), 細分 (specific country), Year, and Number_of_Travelers.
+
+Data Structure and Variables
+The primary destination regions (首站抵達地) are categorized into five groups: Asia (亞洲地區, 391 observations), Africa (非洲地區, 46 observations), the Americas (美洲地區, 69 observations), Oceania (大洋洲地區, 92 observations), and Europe (歐洲地區, 184 observations). The 細分 variable further breaks down destinations into specific countries, with 33 distinct categories, including Japan, South Korea, China, the United States, and others. Each country-level observation spans 23 years, ensuring consistent coverage across the study period.
+
+The Year variable ranges from 2002 to 2024, with a mean and median year of 2013 and a standard deviation of approximately 6.6 years. The Number_of_Travelers variable records the count of travelers to each destination, exhibiting significant variability: the mean traveler count is 288,268, while the median is 33,000, reflecting a right-skewed distribution. The maximum traveler count reaches 6,006,116 (observed for Japan in 2024), and approximately 21% of the observations for this variable are missing (NA).
+
+Key Findings from Summary Files
+Regional Trends: The avg_by_region.json file highlights Asia as the dominant destination, with an average of 559,296 travelers per observation and a total of over 163 million travelers. In contrast, Africa has the lowest average (994 travelers per observation), underscoring its relatively minor role in outbound travel.
+
+Country-Level Analysis: The travel_by_country_year.json file reveals Japan as the most popular destination, with traveler counts peaking in 2024. Other notable destinations include China, Hong Kong, and the United States, each showing distinct growth trajectories and temporary declines during the COVID-19 pandemic (2020–2022).
+
+Temporal Patterns: The travel_by_region_year.json file illustrates a general upward trend in travel to Asia and the Americas, with sharp drops in 2020–2021 due to global travel restrictions. Europe and Oceania show slower recovery post-pandemic, while Africa remains a niche destination throughout the period.
+
+Data Quality and Limitations
+Missing values in Number_of_Travelers (21% of observations) are noted, particularly for earlier years and less frequented destinations. The variable-summary.json file confirms no missing values for categorical variables (首站抵達地, 細分, Year), ensuring robust regional and temporal analyses.
+
+This dataset provides valuable insights into the evolving preferences and behaviors of Taiwanese travelers, with implications for tourism policy and economic research. The codebook and supplementary JSON files offer detailed metadata, enabling reproducible analysis and further exploration of regional and country-specific trends.

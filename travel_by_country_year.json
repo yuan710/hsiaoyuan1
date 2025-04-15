@@ -1,0 +1,4529 @@
+[
+  {
+    "細分": "日本Japan",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2008,
+    "total_travelers": 1309847,
+    "avg_travelers": 1309847
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2009,
+    "total_travelers": 1113857,
+    "avg_travelers": 1113857
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2010,
+    "total_travelers": 1377957,
+    "avg_travelers": 1377957
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2011,
+    "total_travelers": 1136394,
+    "avg_travelers": 1136394
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2012,
+    "total_travelers": 1560300,
+    "avg_travelers": 1560300
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2013,
+    "total_travelers": 2346007,
+    "avg_travelers": 2346007
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2014,
+    "total_travelers": 2971846,
+    "avg_travelers": 2971846
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2015,
+    "total_travelers": 3797879,
+    "avg_travelers": 3797879
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2016,
+    "total_travelers": 4295240,
+    "avg_travelers": 4295240
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2017,
+    "total_travelers": 4615873,
+    "avg_travelers": 4615873
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2018,
+    "total_travelers": 4825948,
+    "avg_travelers": 4825948
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2019,
+    "total_travelers": 4911681,
+    "avg_travelers": 4911681
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2020,
+    "total_travelers": 697981,
+    "avg_travelers": 697981
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2021,
+    "total_travelers": 14049,
+    "avg_travelers": 14049
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2022,
+    "total_travelers": 354219,
+    "avg_travelers": 354219
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2023,
+    "total_travelers": 4225804,
+    "avg_travelers": 4225804
+  },
+  {
+    "細分": "日本Japan",
+    "Year": 2024,
+    "total_travelers": 6006116,
+    "avg_travelers": 6006116
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2008,
+    "total_travelers": 363122,
+    "avg_travelers": 363122
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2009,
+    "total_travelers": 388806,
+    "avg_travelers": 388806
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2010,
+    "total_travelers": 406290,
+    "avg_travelers": 406290
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2011,
+    "total_travelers": 423266,
+    "avg_travelers": 423266
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2012,
+    "total_travelers": 532729,
+    "avg_travelers": 532729
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2013,
+    "total_travelers": 518528,
+    "avg_travelers": 518528
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2014,
+    "total_travelers": 626694,
+    "avg_travelers": 626694
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2015,
+    "total_travelers": 500100,
+    "avg_travelers": 500100
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2016,
+    "total_travelers": 808420,
+    "avg_travelers": 808420
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2017,
+    "total_travelers": 888526,
+    "avg_travelers": 888526
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2018,
+    "total_travelers": 1086516,
+    "avg_travelers": 1086516
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2019,
+    "total_travelers": 1209062,
+    "avg_travelers": 1209062
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2020,
+    "total_travelers": 163953,
+    "avg_travelers": 163953
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2021,
+    "total_travelers": 8269,
+    "avg_travelers": 8269
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2022,
+    "total_travelers": 78318,
+    "avg_travelers": 78318
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2023,
+    "total_travelers": 954693,
+    "avg_travelers": 954693
+  },
+  {
+    "細分": "韓國Korea",
+    "Year": 2024,
+    "total_travelers": 1429398,
+    "avg_travelers": 1429398
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2008,
+    "total_travelers": 2851170,
+    "avg_travelers": 2851170
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2009,
+    "total_travelers": 2261001,
+    "avg_travelers": 2261001
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2010,
+    "total_travelers": 2308633,
+    "avg_travelers": 2308633
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2011,
+    "total_travelers": 2156760,
+    "avg_travelers": 2156760
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2012,
+    "total_travelers": 2021212,
+    "avg_travelers": 2021212
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2013,
+    "total_travelers": 2038732,
+    "avg_travelers": 2038732
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2014,
+    "total_travelers": 2018129,
+    "avg_travelers": 2018129
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2015,
+    "total_travelers": 2008153,
+    "avg_travelers": 2008153
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2016,
+    "total_travelers": 1902647,
+    "avg_travelers": 1902647
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2017,
+    "total_travelers": 1773252,
+    "avg_travelers": 1773252
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2018,
+    "total_travelers": 1696265,
+    "avg_travelers": 1696265
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2019,
+    "total_travelers": 1676374,
+    "avg_travelers": 1676374
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2020,
+    "total_travelers": 158008,
+    "avg_travelers": 158008
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2021,
+    "total_travelers": 12692,
+    "avg_travelers": 12692
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2022,
+    "total_travelers": 52725,
+    "avg_travelers": 52725
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2023,
+    "total_travelers": 743443,
+    "avg_travelers": 743443
+  },
+  {
+    "細分": "香港Hong Kong",
+    "Year": 2024,
+    "total_travelers": 1203821,
+    "avg_travelers": 1203821
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2008,
+    "total_travelers": 188744,
+    "avg_travelers": 188744
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2009,
+    "total_travelers": 1516087,
+    "avg_travelers": 1516087
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2010,
+    "total_travelers": 2424242,
+    "avg_travelers": 2424242
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2011,
+    "total_travelers": 2846572,
+    "avg_travelers": 2846572
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2012,
+    "total_travelers": 3139055,
+    "avg_travelers": 3139055
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2013,
+    "total_travelers": 3072327,
+    "avg_travelers": 3072327
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2014,
+    "total_travelers": 3267238,
+    "avg_travelers": 3267238
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2015,
+    "total_travelers": 3403920,
+    "avg_travelers": 3403920
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2016,
+    "total_travelers": 3685477,
+    "avg_travelers": 3685477
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2017,
+    "total_travelers": 3928352,
+    "avg_travelers": 3928352
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2018,
+    "total_travelers": 4172704,
+    "avg_travelers": 4172704
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2019,
+    "total_travelers": 4043686,
+    "avg_travelers": 4043686
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2020,
+    "total_travelers": 414634,
+    "avg_travelers": 414634
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2021,
+    "total_travelers": 128637,
+    "avg_travelers": 128637
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2022,
+    "total_travelers": 165895,
+    "avg_travelers": 165895
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2023,
+    "total_travelers": 1761134,
+    "avg_travelers": 1761134
+  },
+  {
+    "細分": "中國大陸China",
+    "Year": 2024,
+    "total_travelers": 2770284,
+    "avg_travelers": 2770284
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2008,
+    "total_travelers": 926593,
+    "avg_travelers": 926593
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2009,
+    "total_travelers": 739263,
+    "avg_travelers": 739263
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2010,
+    "total_travelers": 667910,
+    "avg_travelers": 667910
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2011,
+    "total_travelers": 587633,
+    "avg_travelers": 587633
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2012,
+    "total_travelers": 527050,
+    "avg_travelers": 527050
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2013,
+    "total_travelers": 514701,
+    "avg_travelers": 514701
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2014,
+    "total_travelers": 493188,
+    "avg_travelers": 493188
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2015,
+    "total_travelers": 527144,
+    "avg_travelers": 527144
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2016,
+    "total_travelers": 598850,
+    "avg_travelers": 598850
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2017,
+    "total_travelers": 589147,
+    "avg_travelers": 589147
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2018,
+    "total_travelers": 605468,
+    "avg_travelers": 605468
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2019,
+    "total_travelers": 596721,
+    "avg_travelers": 596721
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2020,
+    "total_travelers": 54537,
+    "avg_travelers": 54537
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2021,
+    "total_travelers": 11468,
+    "avg_travelers": 11468
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2022,
+    "total_travelers": 7556,
+    "avg_travelers": 7556
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2023,
+    "total_travelers": 275979,
+    "avg_travelers": 275979
+  },
+  {
+    "細分": "澳門Macao",
+    "Year": 2024,
+    "total_travelers": 487441,
+    "avg_travelers": 487441
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2008,
+    "total_travelers": 285263,
+    "avg_travelers": 285263
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2009,
+    "total_travelers": 264819,
+    "avg_travelers": 264819
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2010,
+    "total_travelers": 313987,
+    "avg_travelers": 313987
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2011,
+    "total_travelers": 318587,
+    "avg_travelers": 318587
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2012,
+    "total_travelers": 341511,
+    "avg_travelers": 341511
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2013,
+    "total_travelers": 361957,
+    "avg_travelers": 361957
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2014,
+    "total_travelers": 339107,
+    "avg_travelers": 339107
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2015,
+    "total_travelers": 409013,
+    "avg_travelers": 409013
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2016,
+    "total_travelers": 465944,
+    "avg_travelers": 465944
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2017,
+    "total_travelers": 564002,
+    "avg_travelers": 564002
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2018,
+    "total_travelers": 659123,
+    "avg_travelers": 659123
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2019,
+    "total_travelers": 853257,
+    "avg_travelers": 853257
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2020,
+    "total_travelers": 158286,
+    "avg_travelers": 158286
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2021,
+    "total_travelers": 11123,
+    "avg_travelers": 11123
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2022,
+    "total_travelers": 133203,
+    "avg_travelers": 133203
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2023,
+    "total_travelers": 853859,
+    "avg_travelers": 853859
+  },
+  {
+    "細分": "越南Vietnam",
+    "Year": 2024,
+    "total_travelers": 1263352,
+    "avg_travelers": 1263352
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2008,
+    "total_travelers": 332997,
+    "avg_travelers": 332997
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2009,
+    "total_travelers": 258449,
+    "avg_travelers": 258449
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2010,
+    "total_travelers": 350074,
+    "avg_travelers": 350074
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2011,
+    "total_travelers": 382635,
+    "avg_travelers": 382635
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2012,
+    "total_travelers": 306746,
+    "avg_travelers": 306746
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2013,
+    "total_travelers": 507616,
+    "avg_travelers": 507616
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2014,
+    "total_travelers": 419133,
+    "avg_travelers": 419133
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2015,
+    "total_travelers": 599523,
+    "avg_travelers": 599523
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2016,
+    "total_travelers": 532787,
+    "avg_travelers": 532787
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2017,
+    "total_travelers": 553804,
+    "avg_travelers": 553804
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2018,
+    "total_travelers": 679145,
+    "avg_travelers": 679145
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2019,
+    "total_travelers": 830166,
+    "avg_travelers": 830166
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2020,
+    "total_travelers": 127693,
+    "avg_travelers": 127693
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2021,
+    "total_travelers": 7976,
+    "avg_travelers": 7976
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2022,
+    "total_travelers": 104892,
+    "avg_travelers": 104892
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2023,
+    "total_travelers": 777326,
+    "avg_travelers": 777326
+  },
+  {
+    "細分": "泰國Thailand",
+    "Year": 2024,
+    "total_travelers": 1121756,
+    "avg_travelers": 1121756
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2008,
+    "total_travelers": 157650,
+    "avg_travelers": 157650
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2009,
+    "total_travelers": 153695,
+    "avg_travelers": 153695
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2010,
+    "total_travelers": 212509,
+    "avg_travelers": 212509
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2011,
+    "total_travelers": 209164,
+    "avg_travelers": 209164
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2012,
+    "total_travelers": 193170,
+    "avg_travelers": 193170
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2013,
+    "total_travelers": 226919,
+    "avg_travelers": 226919
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2014,
+    "total_travelers": 198902,
+    "avg_travelers": 198902
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2015,
+    "total_travelers": 201631,
+    "avg_travelers": 201631
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2016,
+    "total_travelers": 245298,
+    "avg_travelers": 245298
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2017,
+    "total_travelers": 296370,
+    "avg_travelers": 296370
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2018,
+    "total_travelers": 316926,
+    "avg_travelers": 316926
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2019,
+    "total_travelers": 299959,
+    "avg_travelers": 299959
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2020,
+    "total_travelers": 49913,
+    "avg_travelers": 49913
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2021,
+    "total_travelers": 1373,
+    "avg_travelers": 1373
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2022,
+    "total_travelers": 29909,
+    "avg_travelers": 29909
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2023,
+    "total_travelers": 245136,
+    "avg_travelers": 245136
+  },
+  {
+    "細分": "馬來西亞Malaysia",
+    "Year": 2024,
+    "total_travelers": 320450,
+    "avg_travelers": 320450
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2008,
+    "total_travelers": 167479,
+    "avg_travelers": 167479
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2009,
+    "total_travelers": 137348,
+    "avg_travelers": 137348
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2010,
+    "total_travelers": 166126,
+    "avg_travelers": 166126
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2011,
+    "total_travelers": 207808,
+    "avg_travelers": 207808
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2012,
+    "total_travelers": 241893,
+    "avg_travelers": 241893
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2013,
+    "total_travelers": 297588,
+    "avg_travelers": 297588
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2014,
+    "total_travelers": 283925,
+    "avg_travelers": 283925
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2015,
+    "total_travelers": 318516,
+    "avg_travelers": 318516
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2016,
+    "total_travelers": 319915,
+    "avg_travelers": 319915
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2017,
+    "total_travelers": 326634,
+    "avg_travelers": 326634
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2018,
+    "total_travelers": 354667,
+    "avg_travelers": 354667
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2019,
+    "total_travelers": 387485,
+    "avg_travelers": 387485
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2020,
+    "total_travelers": 65674,
+    "avg_travelers": 65674
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2021,
+    "total_travelers": 13656,
+    "avg_travelers": 13656
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2022,
+    "total_travelers": 78961,
+    "avg_travelers": 78961
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2023,
+    "total_travelers": 316715,
+    "avg_travelers": 316715
+  },
+  {
+    "細分": "新加坡Singapore",
+    "Year": 2024,
+    "total_travelers": 380127,
+    "avg_travelers": 380127
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2008,
+    "total_travelers": 114155,
+    "avg_travelers": 114155
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2009,
+    "total_travelers": 97372,
+    "avg_travelers": 97372
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2010,
+    "total_travelers": 139762,
+    "avg_travelers": 139762
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2011,
+    "total_travelers": 178876,
+    "avg_travelers": 178876
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2012,
+    "total_travelers": 211385,
+    "avg_travelers": 211385
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2013,
+    "total_travelers": 129361,
+    "avg_travelers": 129361
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2014,
+    "total_travelers": 133583,
+    "avg_travelers": 133583
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2015,
+    "total_travelers": 180091,
+    "avg_travelers": 180091
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2016,
+    "total_travelers": 231801,
+    "avg_travelers": 231801
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2017,
+    "total_travelers": 236597,
+    "avg_travelers": 236597
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2018,
+    "total_travelers": 246691,
+    "avg_travelers": 246691
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2019,
+    "total_travelers": 331792,
+    "avg_travelers": 331792
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2020,
+    "total_travelers": 49093,
+    "avg_travelers": 49093
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2021,
+    "total_travelers": 2099,
+    "avg_travelers": 2099
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2022,
+    "total_travelers": 29027,
+    "avg_travelers": 29027
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2023,
+    "total_travelers": 208399,
+    "avg_travelers": 208399
+  },
+  {
+    "細分": "菲律賓Philippines",
+    "Year": 2024,
+    "total_travelers": 225716,
+    "avg_travelers": 225716
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2005,
+    "total_travelers": 296,
+    "avg_travelers": 296
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2006,
+    "total_travelers": 276,
+    "avg_travelers": 276
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2007,
+    "total_travelers": 670,
+    "avg_travelers": 670
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2008,
+    "total_travelers": 1233,
+    "avg_travelers": 1233
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2009,
+    "total_travelers": 216,
+    "avg_travelers": 216
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2010,
+    "total_travelers": 714,
+    "avg_travelers": 714
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2011,
+    "total_travelers": 1628,
+    "avg_travelers": 1628
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2012,
+    "total_travelers": 1100,
+    "avg_travelers": 1100
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2013,
+    "total_travelers": 2411,
+    "avg_travelers": 2411
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2014,
+    "total_travelers": 298,
+    "avg_travelers": 298
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2015,
+    "total_travelers": 285,
+    "avg_travelers": 285
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2016,
+    "total_travelers": 540,
+    "avg_travelers": 540
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2017,
+    "total_travelers": 801,
+    "avg_travelers": 801
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2018,
+    "total_travelers": 1093,
+    "avg_travelers": 1093
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2019,
+    "total_travelers": 6317,
+    "avg_travelers": 6317
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2020,
+    "total_travelers": 1594,
+    "avg_travelers": 1594
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2021,
+    "total_travelers": 49,
+    "avg_travelers": 49
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2022,
+    "total_travelers": 36,
+    "avg_travelers": 36
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2023,
+    "total_travelers": 6821,
+    "avg_travelers": 6821
+  },
+  {
+    "細分": "汶萊Brunei",
+    "Year": 2024,
+    "total_travelers": 13651,
+    "avg_travelers": 13651
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2008,
+    "total_travelers": 186117,
+    "avg_travelers": 186117
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2009,
+    "total_travelers": 173429,
+    "avg_travelers": 173429
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2010,
+    "total_travelers": 179845,
+    "avg_travelers": 179845
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2011,
+    "total_travelers": 212826,
+    "avg_travelers": 212826
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2012,
+    "total_travelers": 198893,
+    "avg_travelers": 198893
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2013,
+    "total_travelers": 166378,
+    "avg_travelers": 166378
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2014,
+    "total_travelers": 170301,
+    "avg_travelers": 170301
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2015,
+    "total_travelers": 176478,
+    "avg_travelers": 176478
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2016,
+    "total_travelers": 175738,
+    "avg_travelers": 175738
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2017,
+    "total_travelers": 177960,
+    "avg_travelers": 177960
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2018,
+    "total_travelers": 170013,
+    "avg_travelers": 170013
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2019,
+    "total_travelers": 156060,
+    "avg_travelers": 156060
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2020,
+    "total_travelers": 30237,
+    "avg_travelers": 30237
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2021,
+    "total_travelers": 2177,
+    "avg_travelers": 2177
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2022,
+    "total_travelers": 20793,
+    "avg_travelers": 20793
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2023,
+    "total_travelers": 125899,
+    "avg_travelers": 125899
+  },
+  {
+    "細分": "印尼Indonesia",
+    "Year": 2024,
+    "total_travelers": 148350,
+    "avg_travelers": 148350
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2008,
+    "total_travelers": 51480,
+    "avg_travelers": 51480
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2009,
+    "total_travelers": 44231,
+    "avg_travelers": 44231
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2010,
+    "total_travelers": 57078,
+    "avg_travelers": 57078
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2011,
+    "total_travelers": 67341,
+    "avg_travelers": 67341
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2012,
+    "total_travelers": 65599,
+    "avg_travelers": 65599
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2013,
+    "total_travelers": 61338,
+    "avg_travelers": 61338
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2014,
+    "total_travelers": 69195,
+    "avg_travelers": 69195
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2015,
+    "total_travelers": 66593,
+    "avg_travelers": 66593
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2016,
+    "total_travelers": 67281,
+    "avg_travelers": 67281
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2017,
+    "total_travelers": 82888,
+    "avg_travelers": 82888
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2018,
+    "total_travelers": 93313,
+    "avg_travelers": 93313
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2019,
+    "total_travelers": 89975,
+    "avg_travelers": 89975
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2020,
+    "total_travelers": 16157,
+    "avg_travelers": 16157
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2021,
+    "total_travelers": 3294,
+    "avg_travelers": 3294
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2022,
+    "total_travelers": 17471,
+    "avg_travelers": 17471
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2023,
+    "total_travelers": 46050,
+    "avg_travelers": 46050
+  },
+  {
+    "細分": "柬埔寨Cambodia",
+    "Year": 2024,
+    "total_travelers": 57771,
+    "avg_travelers": 57771
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2008,
+    "total_travelers": 10608,
+    "avg_travelers": 10608
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2009,
+    "total_travelers": 11570,
+    "avg_travelers": 11570
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2010,
+    "total_travelers": 14097,
+    "avg_travelers": 14097
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2011,
+    "total_travelers": 16263,
+    "avg_travelers": 16263
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2012,
+    "total_travelers": 18380,
+    "avg_travelers": 18380
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2013,
+    "total_travelers": 23864,
+    "avg_travelers": 23864
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2014,
+    "total_travelers": 22817,
+    "avg_travelers": 22817
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2015,
+    "total_travelers": 19999,
+    "avg_travelers": 19999
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2016,
+    "total_travelers": 25196,
+    "avg_travelers": 25196
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2017,
+    "total_travelers": 26200,
+    "avg_travelers": 26200
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2018,
+    "total_travelers": 25101,
+    "avg_travelers": 25101
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2019,
+    "total_travelers": 25071,
+    "avg_travelers": 25071
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2020,
+    "total_travelers": 5374,
+    "avg_travelers": 5374
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2021,
+    "total_travelers": 297,
+    "avg_travelers": 297
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2022,
+    "total_travelers": 2681,
+    "avg_travelers": 2681
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2023,
+    "total_travelers": 7919,
+    "avg_travelers": 7919
+  },
+  {
+    "細分": "緬甸Myanmar",
+    "Year": 2024,
+    "total_travelers": 6492,
+    "avg_travelers": 6492
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2008,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2009,
+    "total_travelers": 35,
+    "avg_travelers": 35
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2010,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2011,
+    "total_travelers": 141,
+    "avg_travelers": 141
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2012,
+    "total_travelers": 5,
+    "avg_travelers": 5
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2013,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2014,
+    "total_travelers": 61274,
+    "avg_travelers": 61274
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2015,
+    "total_travelers": 76360,
+    "avg_travelers": 76360
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2016,
+    "total_travelers": 79066,
+    "avg_travelers": 79066
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2017,
+    "total_travelers": 68210,
+    "avg_travelers": 68210
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2018,
+    "total_travelers": 83158,
+    "avg_travelers": 83158
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2019,
+    "total_travelers": 136603,
+    "avg_travelers": 136603
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2020,
+    "total_travelers": 26801,
+    "avg_travelers": 26801
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2021,
+    "total_travelers": 7915,
+    "avg_travelers": 7915
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2022,
+    "total_travelers": 31884,
+    "avg_travelers": 31884
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2023,
+    "total_travelers": 121767,
+    "avg_travelers": 121767
+  },
+  {
+    "細分": "阿拉伯聯合大公國UAE",
+    "Year": 2024,
+    "total_travelers": 153404,
+    "avg_travelers": 153404
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2008,
+    "total_travelers": 198,
+    "avg_travelers": 198
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2009,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2010,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2011,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2012,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2013,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2014,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2015,
+    "total_travelers": 47083,
+    "avg_travelers": 47083
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2016,
+    "total_travelers": 69564,
+    "avg_travelers": 69564
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2017,
+    "total_travelers": 63795,
+    "avg_travelers": 63795
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2018,
+    "total_travelers": 83933,
+    "avg_travelers": 83933
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2019,
+    "total_travelers": 87168,
+    "avg_travelers": 87168
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2020,
+    "total_travelers": 15662,
+    "avg_travelers": 15662
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2021,
+    "total_travelers": 7386,
+    "avg_travelers": 7386
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2022,
+    "total_travelers": 29586,
+    "avg_travelers": 29586
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2023,
+    "total_travelers": 78286,
+    "avg_travelers": 78286
+  },
+  {
+    "細分": "土耳其Turkey",
+    "Year": 2024,
+    "total_travelers": 96712,
+    "avg_travelers": 96712
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2008,
+    "total_travelers": 26373,
+    "avg_travelers": 26373
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2009,
+    "total_travelers": 19253,
+    "avg_travelers": 19253
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2010,
+    "total_travelers": 23439,
+    "avg_travelers": 23439
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2011,
+    "total_travelers": 16320,
+    "avg_travelers": 16320
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2012,
+    "total_travelers": 8569,
+    "avg_travelers": 8569
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2013,
+    "total_travelers": 121196,
+    "avg_travelers": 121196
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2014,
+    "total_travelers": 20034,
+    "avg_travelers": 20034
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2015,
+    "total_travelers": 20520,
+    "avg_travelers": 20520
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2016,
+    "total_travelers": 35303,
+    "avg_travelers": 35303
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2017,
+    "total_travelers": 61351,
+    "avg_travelers": 61351
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2018,
+    "total_travelers": 52483,
+    "avg_travelers": 52483
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2019,
+    "total_travelers": 116096,
+    "avg_travelers": 116096
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2020,
+    "total_travelers": 2925,
+    "avg_travelers": 2925
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2021,
+    "total_travelers": 276,
+    "avg_travelers": 276
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2022,
+    "total_travelers": 706,
+    "avg_travelers": 706
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2023,
+    "total_travelers": 3084,
+    "avg_travelers": 3084
+  },
+  {
+    "細分": "亞洲其他地區 Others",
+    "Year": 2024,
+    "total_travelers": 1158,
+    "avg_travelers": 1158
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2002,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2003,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2007,
+    "total_travelers": 1,
+    "avg_travelers": 1
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2008,
+    "total_travelers": 38,
+    "avg_travelers": 38
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2009,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2010,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2011,
+    "total_travelers": 1,
+    "avg_travelers": 1
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2012,
+    "total_travelers": 6,
+    "avg_travelers": 6
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2013,
+    "total_travelers": 2,
+    "avg_travelers": 2
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2014,
+    "total_travelers": 8,
+    "avg_travelers": 8
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2015,
+    "total_travelers": 16,
+    "avg_travelers": 16
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2016,
+    "total_travelers": 1397,
+    "avg_travelers": 1397
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2017,
+    "total_travelers": 3154,
+    "avg_travelers": 3154
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2018,
+    "total_travelers": 2967,
+    "avg_travelers": 2967
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2019,
+    "total_travelers": 13,
+    "avg_travelers": 13
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2020,
+    "total_travelers": 2,
+    "avg_travelers": 2
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2021,
+    "total_travelers": 19,
+    "avg_travelers": 19
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2022,
+    "total_travelers": 59,
+    "avg_travelers": 59
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2023,
+    "total_travelers": 84,
+    "avg_travelers": 84
+  },
+  {
+    "細分": "南非S. Africa",
+    "Year": 2024,
+    "total_travelers": 46,
+    "avg_travelers": 46
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2002,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2003,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2007,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2008,
+    "total_travelers": 2,
+    "avg_travelers": 2
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2009,
+    "total_travelers": 2838,
+    "avg_travelers": 2838
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2010,
+    "total_travelers": 1110,
+    "avg_travelers": 1110
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2011,
+    "total_travelers": 237,
+    "avg_travelers": 237
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2012,
+    "total_travelers": 1820,
+    "avg_travelers": 1820
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2013,
+    "total_travelers": 12,
+    "avg_travelers": 12
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2014,
+    "total_travelers": 5,
+    "avg_travelers": 5
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2015,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2016,
+    "total_travelers": 3809,
+    "avg_travelers": 3809
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2017,
+    "total_travelers": 13586,
+    "avg_travelers": 13586
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2018,
+    "total_travelers": 13682,
+    "avg_travelers": 13682
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2019,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2020,
+    "total_travelers": 21,
+    "avg_travelers": 21
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2021,
+    "total_travelers": 46,
+    "avg_travelers": 46
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2022,
+    "total_travelers": 146,
+    "avg_travelers": 146
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2023,
+    "total_travelers": 256,
+    "avg_travelers": 256
+  },
+  {
+    "細分": "非洲其他地區 Others",
+    "Year": 2024,
+    "total_travelers": 330,
+    "avg_travelers": 330
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2008,
+    "total_travelers": 515590,
+    "avg_travelers": 515590
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2009,
+    "total_travelers": 415465,
+    "avg_travelers": 415465
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2010,
+    "total_travelers": 436233,
+    "avg_travelers": 436233
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2011,
+    "total_travelers": 404848,
+    "avg_travelers": 404848
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2012,
+    "total_travelers": 469568,
+    "avg_travelers": 469568
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2013,
+    "total_travelers": 381374,
+    "avg_travelers": 381374
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2014,
+    "total_travelers": 425138,
+    "avg_travelers": 425138
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2015,
+    "total_travelers": 477156,
+    "avg_travelers": 477156
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2016,
+    "total_travelers": 527099,
+    "avg_travelers": 527099
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2017,
+    "total_travelers": 574512,
+    "avg_travelers": 574512
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2018,
+    "total_travelers": 569180,
+    "avg_travelers": 569180
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2019,
+    "total_travelers": 550978,
+    "avg_travelers": 550978
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2020,
+    "total_travelers": 143975,
+    "avg_travelers": 143975
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2021,
+    "total_travelers": 103895,
+    "avg_travelers": 103895
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2022,
+    "total_travelers": 216084,
+    "avg_travelers": 216084
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2023,
+    "total_travelers": 465756,
+    "avg_travelers": 465756
+  },
+  {
+    "細分": "美國USA",
+    "Year": 2024,
+    "total_travelers": 532130,
+    "avg_travelers": 532130
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2008,
+    "total_travelers": 65393,
+    "avg_travelers": 65393
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2009,
+    "total_travelers": 61893,
+    "avg_travelers": 61893
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2010,
+    "total_travelers": 63002,
+    "avg_travelers": 63002
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2011,
+    "total_travelers": 67733,
+    "avg_travelers": 67733
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2012,
+    "total_travelers": 66614,
+    "avg_travelers": 66614
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2013,
+    "total_travelers": 65086,
+    "avg_travelers": 65086
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2014,
+    "total_travelers": 70285,
+    "avg_travelers": 70285
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2015,
+    "total_travelers": 71079,
+    "avg_travelers": 71079
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2016,
+    "total_travelers": 93405,
+    "avg_travelers": 93405
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2017,
+    "total_travelers": 114828,
+    "avg_travelers": 114828
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2018,
+    "total_travelers": 133757,
+    "avg_travelers": 133757
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2019,
+    "total_travelers": 125474,
+    "avg_travelers": 125474
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2020,
+    "total_travelers": 31756,
+    "avg_travelers": 31756
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2021,
+    "total_travelers": 10369,
+    "avg_travelers": 10369
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2022,
+    "total_travelers": 34282,
+    "avg_travelers": 34282
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2023,
+    "total_travelers": 77523,
+    "avg_travelers": 77523
+  },
+  {
+    "細分": "加拿大Canada",
+    "Year": 2024,
+    "total_travelers": 80147,
+    "avg_travelers": 80147
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2002,
+    "total_travelers": 9,
+    "avg_travelers": 9
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2003,
+    "total_travelers": 11,
+    "avg_travelers": 11
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2007,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2008,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2009,
+    "total_travelers": 110,
+    "avg_travelers": 110
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2010,
+    "total_travelers": 283,
+    "avg_travelers": 283
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2011,
+    "total_travelers": 678,
+    "avg_travelers": 678
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2012,
+    "total_travelers": 832,
+    "avg_travelers": 832
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2013,
+    "total_travelers": 135,
+    "avg_travelers": 135
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2014,
+    "total_travelers": 56,
+    "avg_travelers": 56
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2015,
+    "total_travelers": 32,
+    "avg_travelers": 32
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2016,
+    "total_travelers": 2687,
+    "avg_travelers": 2687
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2017,
+    "total_travelers": 8021,
+    "avg_travelers": 8021
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2018,
+    "total_travelers": 7102,
+    "avg_travelers": 7102
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2019,
+    "total_travelers": 68,
+    "avg_travelers": 68
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2020,
+    "total_travelers": 5,
+    "avg_travelers": 5
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2021,
+    "total_travelers": 75,
+    "avg_travelers": 75
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2022,
+    "total_travelers": 136,
+    "avg_travelers": 136
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2023,
+    "total_travelers": 184,
+    "avg_travelers": 184
+  },
+  {
+    "細分": "美洲其他地區 Others",
+    "Year": 2024,
+    "total_travelers": 136,
+    "avg_travelers": 136
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2008,
+    "total_travelers": 66543,
+    "avg_travelers": 66543
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2009,
+    "total_travelers": 89793,
+    "avg_travelers": 89793
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2010,
+    "total_travelers": 74787,
+    "avg_travelers": 74787
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2011,
+    "total_travelers": 54889,
+    "avg_travelers": 54889
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2012,
+    "total_travelers": 49986,
+    "avg_travelers": 49986
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2013,
+    "total_travelers": 69824,
+    "avg_travelers": 69824
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2014,
+    "total_travelers": 85745,
+    "avg_travelers": 85745
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2015,
+    "total_travelers": 103806,
+    "avg_travelers": 103806
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2016,
+    "total_travelers": 139501,
+    "avg_travelers": 139501
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2017,
+    "total_travelers": 165938,
+    "avg_travelers": 165938
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2018,
+    "total_travelers": 190163,
+    "avg_travelers": 190163
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2019,
+    "total_travelers": 180048,
+    "avg_travelers": 180048
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2020,
+    "total_travelers": 40124,
+    "avg_travelers": 40124
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2021,
+    "total_travelers": 1629,
+    "avg_travelers": 1629
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2022,
+    "total_travelers": 27162,
+    "avg_travelers": 27162
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2023,
+    "total_travelers": 130276,
+    "avg_travelers": 130276
+  },
+  {
+    "細分": "澳洲Australia",
+    "Year": 2024,
+    "total_travelers": 149161,
+    "avg_travelers": 149161
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2008,
+    "total_travelers": 10732,
+    "avg_travelers": 10732
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2009,
+    "total_travelers": 1,
+    "avg_travelers": 1
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2010,
+    "total_travelers": 997,
+    "avg_travelers": 997
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2011,
+    "total_travelers": 15962,
+    "avg_travelers": 15962
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2012,
+    "total_travelers": 1621,
+    "avg_travelers": 1621
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2013,
+    "total_travelers": 6,
+    "avg_travelers": 6
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2014,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2015,
+    "total_travelers": 3,
+    "avg_travelers": 3
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2016,
+    "total_travelers": 2804,
+    "avg_travelers": 2804
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2017,
+    "total_travelers": 6846,
+    "avg_travelers": 6846
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2018,
+    "total_travelers": 20901,
+    "avg_travelers": 20901
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2019,
+    "total_travelers": 32457,
+    "avg_travelers": 32457
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2020,
+    "total_travelers": 9668,
+    "avg_travelers": 9668
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2021,
+    "total_travelers": 495,
+    "avg_travelers": 495
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2022,
+    "total_travelers": 6758,
+    "avg_travelers": 6758
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2023,
+    "total_travelers": 28597,
+    "avg_travelers": 28597
+  },
+  {
+    "細分": "紐西蘭New Zealand",
+    "Year": 2024,
+    "total_travelers": 31491,
+    "avg_travelers": 31491
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2008,
+    "total_travelers": 15918,
+    "avg_travelers": 15918
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2009,
+    "total_travelers": 13264,
+    "avg_travelers": 13264
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2010,
+    "total_travelers": 19951,
+    "avg_travelers": 19951
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2011,
+    "total_travelers": 30079,
+    "avg_travelers": 30079
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2012,
+    "total_travelers": 37512,
+    "avg_travelers": 37512
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2013,
+    "total_travelers": 27164,
+    "avg_travelers": 27164
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2014,
+    "total_travelers": 30471,
+    "avg_travelers": 30471
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2015,
+    "total_travelers": 14421,
+    "avg_travelers": 14421
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2016,
+    "total_travelers": 14203,
+    "avg_travelers": 14203
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2017,
+    "total_travelers": 9884,
+    "avg_travelers": 9884
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2018,
+    "total_travelers": 11524,
+    "avg_travelers": 11524
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2019,
+    "total_travelers": 15511,
+    "avg_travelers": 15511
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2020,
+    "total_travelers": 2628,
+    "avg_travelers": 2628
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2021,
+    "total_travelers": 2621,
+    "avg_travelers": 2621
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2022,
+    "total_travelers": 1535,
+    "avg_travelers": 1535
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2023,
+    "total_travelers": 10555,
+    "avg_travelers": 10555
+  },
+  {
+    "細分": "帛琉Palau",
+    "Year": 2024,
+    "total_travelers": 12468,
+    "avg_travelers": 12468
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2002,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2003,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2007,
+    "total_travelers": 129,
+    "avg_travelers": 129
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2008,
+    "total_travelers": 28,
+    "avg_travelers": 28
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2009,
+    "total_travelers": 57,
+    "avg_travelers": 57
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2010,
+    "total_travelers": 110,
+    "avg_travelers": 110
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2011,
+    "total_travelers": 684,
+    "avg_travelers": 684
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2012,
+    "total_travelers": 47,
+    "avg_travelers": 47
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2013,
+    "total_travelers": 126,
+    "avg_travelers": 126
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2014,
+    "total_travelers": 126,
+    "avg_travelers": 126
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2015,
+    "total_travelers": 160,
+    "avg_travelers": 160
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2016,
+    "total_travelers": 1218,
+    "avg_travelers": 1218
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2017,
+    "total_travelers": 1649,
+    "avg_travelers": 1649
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2018,
+    "total_travelers": 1686,
+    "avg_travelers": 1686
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2019,
+    "total_travelers": 119,
+    "avg_travelers": 119
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2020,
+    "total_travelers": 68,
+    "avg_travelers": 68
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2021,
+    "total_travelers": 88,
+    "avg_travelers": 88
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2022,
+    "total_travelers": 127,
+    "avg_travelers": 127
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2023,
+    "total_travelers": 82,
+    "avg_travelers": 82
+  },
+  {
+    "細分": "大洋洲其他地區 Others",
+    "Year": 2024,
+    "total_travelers": 71,
+    "avg_travelers": 71
+  },
+  {
+    "細分": "法國France",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "法國France",
+    "Year": 2008,
+    "total_travelers": 442,
+    "avg_travelers": 442
+  },
+  {
+    "細分": "法國France",
+    "Year": 2009,
+    "total_travelers": 23518,
+    "avg_travelers": 23518
+  },
+  {
+    "細分": "法國France",
+    "Year": 2010,
+    "total_travelers": 23960,
+    "avg_travelers": 23960
+  },
+  {
+    "細分": "法國France",
+    "Year": 2011,
+    "total_travelers": 31337,
+    "avg_travelers": 31337
+  },
+  {
+    "細分": "法國France",
+    "Year": 2012,
+    "total_travelers": 30132,
+    "avg_travelers": 30132
+  },
+  {
+    "細分": "法國France",
+    "Year": 2013,
+    "total_travelers": 33000,
+    "avg_travelers": 33000
+  },
+  {
+    "細分": "法國France",
+    "Year": 2014,
+    "total_travelers": 39126,
+    "avg_travelers": 39126
+  },
+  {
+    "細分": "法國France",
+    "Year": 2015,
+    "total_travelers": 41185,
+    "avg_travelers": 41185
+  },
+  {
+    "細分": "法國France",
+    "Year": 2016,
+    "total_travelers": 46461,
+    "avg_travelers": 46461
+  },
+  {
+    "細分": "法國France",
+    "Year": 2017,
+    "total_travelers": 66720,
+    "avg_travelers": 66720
+  },
+  {
+    "細分": "法國France",
+    "Year": 2018,
+    "total_travelers": 81814,
+    "avg_travelers": 81814
+  },
+  {
+    "細分": "法國France",
+    "Year": 2019,
+    "total_travelers": 75642,
+    "avg_travelers": 75642
+  },
+  {
+    "細分": "法國France",
+    "Year": 2020,
+    "total_travelers": 12801,
+    "avg_travelers": 12801
+  },
+  {
+    "細分": "法國France",
+    "Year": 2021,
+    "total_travelers": 1792,
+    "avg_travelers": 1792
+  },
+  {
+    "細分": "法國France",
+    "Year": 2022,
+    "total_travelers": 12715,
+    "avg_travelers": 12715
+  },
+  {
+    "細分": "法國France",
+    "Year": 2023,
+    "total_travelers": 59613,
+    "avg_travelers": 59613
+  },
+  {
+    "細分": "法國France",
+    "Year": 2024,
+    "total_travelers": 55638,
+    "avg_travelers": 55638
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2008,
+    "total_travelers": 38205,
+    "avg_travelers": 38205
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2009,
+    "total_travelers": 32797,
+    "avg_travelers": 32797
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2010,
+    "total_travelers": 31975,
+    "avg_travelers": 31975
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2011,
+    "total_travelers": 35378,
+    "avg_travelers": 35378
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2012,
+    "total_travelers": 36271,
+    "avg_travelers": 36271
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2013,
+    "total_travelers": 41122,
+    "avg_travelers": 41122
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2014,
+    "total_travelers": 44251,
+    "avg_travelers": 44251
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2015,
+    "total_travelers": 53043,
+    "avg_travelers": 53043
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2016,
+    "total_travelers": 66454,
+    "avg_travelers": 66454
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2017,
+    "total_travelers": 95850,
+    "avg_travelers": 95850
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2018,
+    "total_travelers": 90350,
+    "avg_travelers": 90350
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2019,
+    "total_travelers": 69021,
+    "avg_travelers": 69021
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2020,
+    "total_travelers": 12328,
+    "avg_travelers": 12328
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2021,
+    "total_travelers": 2632,
+    "avg_travelers": 2632
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2022,
+    "total_travelers": 18068,
+    "avg_travelers": 18068
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2023,
+    "total_travelers": 78972,
+    "avg_travelers": 78972
+  },
+  {
+    "細分": "德國Germany",
+    "Year": 2024,
+    "total_travelers": 84372,
+    "avg_travelers": 84372
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2008,
+    "total_travelers": 14656,
+    "avg_travelers": 14656
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2009,
+    "total_travelers": 9726,
+    "avg_travelers": 9726
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2010,
+    "total_travelers": 7719,
+    "avg_travelers": 7719
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2011,
+    "total_travelers": 9355,
+    "avg_travelers": 9355
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2012,
+    "total_travelers": 12718,
+    "avg_travelers": 12718
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2013,
+    "total_travelers": 70,
+    "avg_travelers": 70
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2014,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2015,
+    "total_travelers": 14,
+    "avg_travelers": 14
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2016,
+    "total_travelers": 13054,
+    "avg_travelers": 13054
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2017,
+    "total_travelers": 47346,
+    "avg_travelers": 47346
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2018,
+    "total_travelers": 44940,
+    "avg_travelers": 44940
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2019,
+    "total_travelers": 27717,
+    "avg_travelers": 27717
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2020,
+    "total_travelers": 2505,
+    "avg_travelers": 2505
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2021,
+    "total_travelers": 24,
+    "avg_travelers": 24
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2022,
+    "total_travelers": 3183,
+    "avg_travelers": 3183
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2023,
+    "total_travelers": 49904,
+    "avg_travelers": 49904
+  },
+  {
+    "細分": "義大利Italy",
+    "Year": 2024,
+    "total_travelers": 60110,
+    "avg_travelers": 60110
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2008,
+    "total_travelers": 98321,
+    "avg_travelers": 98321
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2009,
+    "total_travelers": 84535,
+    "avg_travelers": 84535
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2010,
+    "total_travelers": 43955,
+    "avg_travelers": 43955
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2011,
+    "total_travelers": 85238,
+    "avg_travelers": 85238
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2012,
+    "total_travelers": 83253,
+    "avg_travelers": 83253
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2013,
+    "total_travelers": 22102,
+    "avg_travelers": 22102
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2014,
+    "total_travelers": 22749,
+    "avg_travelers": 22749
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2015,
+    "total_travelers": 30906,
+    "avg_travelers": 30906
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2016,
+    "total_travelers": 32851,
+    "avg_travelers": 32851
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2017,
+    "total_travelers": 66332,
+    "avg_travelers": 66332
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2018,
+    "total_travelers": 63907,
+    "avg_travelers": 63907
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2019,
+    "total_travelers": 63334,
+    "avg_travelers": 63334
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2020,
+    "total_travelers": 11363,
+    "avg_travelers": 11363
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2021,
+    "total_travelers": 996,
+    "avg_travelers": 996
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2022,
+    "total_travelers": 8220,
+    "avg_travelers": 8220
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2023,
+    "total_travelers": 27185,
+    "avg_travelers": 27185
+  },
+  {
+    "細分": "荷蘭Netherlands",
+    "Year": 2024,
+    "total_travelers": 41404,
+    "avg_travelers": 41404
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2008,
+    "total_travelers": 39114,
+    "avg_travelers": 39114
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2009,
+    "total_travelers": 50621,
+    "avg_travelers": 50621
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2010,
+    "total_travelers": 36142,
+    "avg_travelers": 36142
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2011,
+    "total_travelers": 36376,
+    "avg_travelers": 36376
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2012,
+    "total_travelers": 38002,
+    "avg_travelers": 38002
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2013,
+    "total_travelers": 1,
+    "avg_travelers": 1
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2014,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2015,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2016,
+    "total_travelers": 16321,
+    "avg_travelers": 16321
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2017,
+    "total_travelers": 47797,
+    "avg_travelers": 47797
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2018,
+    "total_travelers": 69211,
+    "avg_travelers": 69211
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2019,
+    "total_travelers": 37992,
+    "avg_travelers": 37992
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2020,
+    "total_travelers": 9340,
+    "avg_travelers": 9340
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2021,
+    "total_travelers": 949,
+    "avg_travelers": 949
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2022,
+    "total_travelers": 9759,
+    "avg_travelers": 9759
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2023,
+    "total_travelers": 29363,
+    "avg_travelers": 29363
+  },
+  {
+    "細分": "英國U.K.",
+    "Year": 2024,
+    "total_travelers": 30601,
+    "avg_travelers": 30601
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2002,
+    "total_travelers": 4,
+    "avg_travelers": 4
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2003,
+    "total_travelers": 2,
+    "avg_travelers": 2
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2007,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2008,
+    "total_travelers": 169,
+    "avg_travelers": 169
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2009,
+    "total_travelers": 565,
+    "avg_travelers": 565
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2010,
+    "total_travelers": 919,
+    "avg_travelers": 919
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2011,
+    "total_travelers": 1414,
+    "avg_travelers": 1414
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2012,
+    "total_travelers": 64,
+    "avg_travelers": 64
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2013,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2014,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2015,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2016,
+    "total_travelers": 5529,
+    "avg_travelers": 5529
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2017,
+    "total_travelers": 15463,
+    "avg_travelers": 15463
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2018,
+    "total_travelers": 15337,
+    "avg_travelers": 15337
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2019,
+    "total_travelers": 6,
+    "avg_travelers": 6
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2020,
+    "total_travelers": 19,
+    "avg_travelers": 19
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2021,
+    "total_travelers": 53,
+    "avg_travelers": 53
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2022,
+    "total_travelers": 205,
+    "avg_travelers": 205
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2023,
+    "total_travelers": 415,
+    "avg_travelers": 415
+  },
+  {
+    "細分": "瑞士Switzerland",
+    "Year": 2024,
+    "total_travelers": 214,
+    "avg_travelers": 214
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2005,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2006,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2007,
+    "total_travelers": 0
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2008,
+    "total_travelers": 34080,
+    "avg_travelers": 34080
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2009,
+    "total_travelers": 34829,
+    "avg_travelers": 34829
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2010,
+    "total_travelers": 26081,
+    "avg_travelers": 26081
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2011,
+    "total_travelers": 35901,
+    "avg_travelers": 35901
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2012,
+    "total_travelers": 39734,
+    "avg_travelers": 39734
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2013,
+    "total_travelers": 23487,
+    "avg_travelers": 23487
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2014,
+    "total_travelers": 26256,
+    "avg_travelers": 26256
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2015,
+    "total_travelers": 32835,
+    "avg_travelers": 32835
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2016,
+    "total_travelers": 41934,
+    "avg_travelers": 41934
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2017,
+    "total_travelers": 59479,
+    "avg_travelers": 59479
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2018,
+    "total_travelers": 91031,
+    "avg_travelers": 91031
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2019,
+    "total_travelers": 81537,
+    "avg_travelers": 81537
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2020,
+    "total_travelers": 10937,
+    "avg_travelers": 10937
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2021,
+    "total_travelers": 300,
+    "avg_travelers": 300
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2022,
+    "total_travelers": 4345,
+    "avg_travelers": 4345
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2023,
+    "total_travelers": 55560,
+    "avg_travelers": 55560
+  },
+  {
+    "細分": "奧地利Austria",
+    "Year": 2024,
+    "total_travelers": 61404,
+    "avg_travelers": 61404
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2002,
+    "total_travelers": 771,
+    "avg_travelers": 771
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2003,
+    "total_travelers": 7,
+    "avg_travelers": 7
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2007,
+    "total_travelers": 475,
+    "avg_travelers": 475
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2008,
+    "total_travelers": 36,
+    "avg_travelers": 36
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2009,
+    "total_travelers": 191,
+    "avg_travelers": 191
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2010,
+    "total_travelers": 1654,
+    "avg_travelers": 1654
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2011,
+    "total_travelers": 4063,
+    "avg_travelers": 4063
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2012,
+    "total_travelers": 586,
+    "avg_travelers": 586
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2013,
+    "total_travelers": 18,
+    "avg_travelers": 18
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2014,
+    "total_travelers": 1295,
+    "avg_travelers": 1295
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2015,
+    "total_travelers": 3546,
+    "avg_travelers": 3546
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2016,
+    "total_travelers": 35483,
+    "avg_travelers": 35483
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2017,
+    "total_travelers": 97542,
+    "avg_travelers": 97542
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2018,
+    "total_travelers": 81187,
+    "avg_travelers": 81187
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2019,
+    "total_travelers": 8334,
+    "avg_travelers": 8334
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2020,
+    "total_travelers": 480,
+    "avg_travelers": 480
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2021,
+    "total_travelers": 393,
+    "avg_travelers": 393
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2022,
+    "total_travelers": 1041,
+    "avg_travelers": 1041
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2023,
+    "total_travelers": 10029,
+    "avg_travelers": 10029
+  },
+  {
+    "細分": "歐洲其他地區 Total",
+    "Year": 2024,
+    "total_travelers": 18429,
+    "avg_travelers": 18429
+  }
+]

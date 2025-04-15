@@ -1,0 +1,689 @@
+[
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2002,
+    "total_travelers": 0
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2003,
+    "total_travelers": 0
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2004,
+    "total_travelers": 0
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2005,
+    "total_travelers": 296,
+    "avg_travelers": 296
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2006,
+    "total_travelers": 276,
+    "avg_travelers": 276
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2007,
+    "total_travelers": 670,
+    "avg_travelers": 670
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2008,
+    "total_travelers": 6973043,
+    "avg_travelers": 410179
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2009,
+    "total_travelers": 7179431,
+    "avg_travelers": 422319.4706
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2010,
+    "total_travelers": 8642677,
+    "avg_travelers": 508392.7647
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2011,
+    "total_travelers": 8762214,
+    "avg_travelers": 515424.3529
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2012,
+    "total_travelers": 9367597,
+    "avg_travelers": 551035.1176
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2013,
+    "total_travelers": 10388937,
+    "avg_travelers": 611113.9412
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2014,
+    "total_travelers": 11095664,
+    "avg_travelers": 652686.1176
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2015,
+    "total_travelers": 12353288,
+    "avg_travelers": 726664
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2016,
+    "total_travelers": 13539067,
+    "avg_travelers": 796415.7059
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2017,
+    "total_travelers": 14253762,
+    "avg_travelers": 838456.5882
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2018,
+    "total_travelers": 15152547,
+    "avg_travelers": 891326.2941
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2019,
+    "total_travelers": 15757473,
+    "avg_travelers": 926910.1765
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2020,
+    "total_travelers": 2038522,
+    "avg_travelers": 119913.0588
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2021,
+    "total_travelers": 232736,
+    "avg_travelers": 13690.3529
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2022,
+    "total_travelers": 1137862,
+    "avg_travelers": 66933.0588
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2023,
+    "total_travelers": 10752314,
+    "avg_travelers": 632489.0588
+  },
+  {
+    "首站抵達地": "亞洲地區",
+    "Year": 2024,
+    "total_travelers": 15685999,
+    "avg_travelers": 922705.8235
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2002,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2003,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2007,
+    "total_travelers": 1,
+    "avg_travelers": 0.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2008,
+    "total_travelers": 40,
+    "avg_travelers": 20
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2009,
+    "total_travelers": 2838,
+    "avg_travelers": 1419
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2010,
+    "total_travelers": 1110,
+    "avg_travelers": 555
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2011,
+    "total_travelers": 238,
+    "avg_travelers": 119
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2012,
+    "total_travelers": 1826,
+    "avg_travelers": 913
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2013,
+    "total_travelers": 14,
+    "avg_travelers": 7
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2014,
+    "total_travelers": 13,
+    "avg_travelers": 6.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2015,
+    "total_travelers": 30,
+    "avg_travelers": 15
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2016,
+    "total_travelers": 5206,
+    "avg_travelers": 2603
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2017,
+    "total_travelers": 16740,
+    "avg_travelers": 8370
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2018,
+    "total_travelers": 16649,
+    "avg_travelers": 8324.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2019,
+    "total_travelers": 27,
+    "avg_travelers": 13.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2020,
+    "total_travelers": 23,
+    "avg_travelers": 11.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2021,
+    "total_travelers": 65,
+    "avg_travelers": 32.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2022,
+    "total_travelers": 205,
+    "avg_travelers": 102.5
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2023,
+    "total_travelers": 340,
+    "avg_travelers": 170
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "Year": 2024,
+    "total_travelers": 376,
+    "avg_travelers": 188
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2002,
+    "total_travelers": 9,
+    "avg_travelers": 9
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2003,
+    "total_travelers": 11,
+    "avg_travelers": 11
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2007,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2008,
+    "total_travelers": 580983,
+    "avg_travelers": 193661
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2009,
+    "total_travelers": 477468,
+    "avg_travelers": 159156
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2010,
+    "total_travelers": 499518,
+    "avg_travelers": 166506
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2011,
+    "total_travelers": 473259,
+    "avg_travelers": 157753
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2012,
+    "total_travelers": 537014,
+    "avg_travelers": 179004.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2013,
+    "total_travelers": 446595,
+    "avg_travelers": 148865
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2014,
+    "total_travelers": 495479,
+    "avg_travelers": 165159.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2015,
+    "total_travelers": 548267,
+    "avg_travelers": 182755.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2016,
+    "total_travelers": 623191,
+    "avg_travelers": 207730.3333
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2017,
+    "total_travelers": 697361,
+    "avg_travelers": 232453.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2018,
+    "total_travelers": 710039,
+    "avg_travelers": 236679.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2019,
+    "total_travelers": 676520,
+    "avg_travelers": 225506.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2020,
+    "total_travelers": 175736,
+    "avg_travelers": 58578.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2021,
+    "total_travelers": 114339,
+    "avg_travelers": 38113
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2022,
+    "total_travelers": 250502,
+    "avg_travelers": 83500.6667
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2023,
+    "total_travelers": 543463,
+    "avg_travelers": 181154.3333
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "Year": 2024,
+    "total_travelers": 612413,
+    "avg_travelers": 204137.6667
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2002,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2003,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2007,
+    "total_travelers": 129,
+    "avg_travelers": 129
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2008,
+    "total_travelers": 93221,
+    "avg_travelers": 23305.25
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2009,
+    "total_travelers": 103115,
+    "avg_travelers": 25778.75
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2010,
+    "total_travelers": 95845,
+    "avg_travelers": 23961.25
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2011,
+    "total_travelers": 101614,
+    "avg_travelers": 25403.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2012,
+    "total_travelers": 89166,
+    "avg_travelers": 22291.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2013,
+    "total_travelers": 97120,
+    "avg_travelers": 24280
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2014,
+    "total_travelers": 116342,
+    "avg_travelers": 29085.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2015,
+    "total_travelers": 118390,
+    "avg_travelers": 29597.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2016,
+    "total_travelers": 157726,
+    "avg_travelers": 39431.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2017,
+    "total_travelers": 184317,
+    "avg_travelers": 46079.25
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2018,
+    "total_travelers": 224274,
+    "avg_travelers": 56068.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2019,
+    "total_travelers": 228135,
+    "avg_travelers": 57033.75
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2020,
+    "total_travelers": 52488,
+    "avg_travelers": 13122
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2021,
+    "total_travelers": 4833,
+    "avg_travelers": 1208.25
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2022,
+    "total_travelers": 35582,
+    "avg_travelers": 8895.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2023,
+    "total_travelers": 169510,
+    "avg_travelers": 42377.5
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "Year": 2024,
+    "total_travelers": 193191,
+    "avg_travelers": 48297.75
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2002,
+    "total_travelers": 775,
+    "avg_travelers": 387.5
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2003,
+    "total_travelers": 9,
+    "avg_travelers": 4.5
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2004,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2005,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2006,
+    "total_travelers": 0,
+    "avg_travelers": 0
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2007,
+    "total_travelers": 475,
+    "avg_travelers": 237.5
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2008,
+    "total_travelers": 225023,
+    "avg_travelers": 28127.875
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2009,
+    "total_travelers": 236782,
+    "avg_travelers": 29597.75
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2010,
+    "total_travelers": 172405,
+    "avg_travelers": 21550.625
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2011,
+    "total_travelers": 239062,
+    "avg_travelers": 29882.75
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2012,
+    "total_travelers": 240760,
+    "avg_travelers": 30095
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2013,
+    "total_travelers": 119800,
+    "avg_travelers": 14975
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2014,
+    "total_travelers": 133677,
+    "avg_travelers": 16709.625
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2015,
+    "total_travelers": 161529,
+    "avg_travelers": 20191.125
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2016,
+    "total_travelers": 258087,
+    "avg_travelers": 32260.875
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2017,
+    "total_travelers": 496529,
+    "avg_travelers": 62066.125
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2018,
+    "total_travelers": 537777,
+    "avg_travelers": 67222.125
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2019,
+    "total_travelers": 363583,
+    "avg_travelers": 45447.875
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2020,
+    "total_travelers": 59773,
+    "avg_travelers": 7471.625
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2021,
+    "total_travelers": 7139,
+    "avg_travelers": 892.375
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2022,
+    "total_travelers": 57536,
+    "avg_travelers": 7192
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2023,
+    "total_travelers": 311041,
+    "avg_travelers": 38880.125
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "Year": 2024,
+    "total_travelers": 352172,
+    "avg_travelers": 44021.5
+  }
+]

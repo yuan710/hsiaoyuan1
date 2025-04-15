@@ -1,0 +1,32 @@
+[
+  {
+    "首站抵達地": "亞洲地區",
+    "avg_travelers": 559295.8048,
+    "total_travelers": 163314375,
+    "n": 391
+  },
+  {
+    "首站抵達地": "非洲地區",
+    "avg_travelers": 994.3696,
+    "total_travelers": 45741,
+    "n": 46
+  },
+  {
+    "首站抵達地": "美洲地區",
+    "avg_travelers": 148459.0702,
+    "total_travelers": 8462167,
+    "n": 69
+  },
+  {
+    "首站抵達地": "大洋洲地區",
+    "avg_travelers": 27905.3784,
+    "total_travelers": 2064998,
+    "n": 92
+  },
+  {
+    "首站抵達地": "歐洲地區",
+    "avg_travelers": 26850.9054,
+    "total_travelers": 3973934,
+    "n": 184
+  }
+]
